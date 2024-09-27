@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iusdater.github.io/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/app/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/assets/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/css/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/data/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/includes/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/item/sitemap.iusdater.gz
+Sitemap: https://iusdater.github.io/src/sitemap.iusdater.gz
